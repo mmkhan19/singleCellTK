@@ -59,7 +59,13 @@ Imports:
     enrichR,
     shinycssloaders,
     shinythemes,
-    umap
+    umap,
+    glmnet,
+    ranger,
+    caret,
+    plotROC,
+    forcats,
+    DMwR
 RoxygenNote: 6.1.1
 Suggests:
     testthat,
